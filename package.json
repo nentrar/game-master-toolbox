@@ -1,0 +1,13 @@
+{
+  "name": "gamemastertoolbox",
+  "version": "0.0.1",
+  "description": "Desktop application for role-play game master, containing tools supporting role-play session",
+  "main": "js/electron.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Nentrar",
+  "devDependencies": {
+    "electron": "^6.0.4"
+  }
+}
