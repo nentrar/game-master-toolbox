@@ -8,6 +8,6 @@
   },
   "author": "Nentrar",
   "devDependencies": {
-    "electron": "^6.0.4"
+    "electron": "^11.5.0"
   }
 }
